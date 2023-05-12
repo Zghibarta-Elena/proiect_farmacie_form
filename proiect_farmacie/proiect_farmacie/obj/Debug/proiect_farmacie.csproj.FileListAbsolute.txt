@@ -1,0 +1,11 @@
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\obj\Debug\proiect_farmacie.csproj.AssemblyReference.cache
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\obj\Debug\proiect_farmacie.csproj.SuggestedBindingRedirects.cache
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\obj\Debug\proiect_farmacie.Form1.resources
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\obj\Debug\proiect_farmacie.Properties.Resources.resources
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\obj\Debug\proiect_farmacie.csproj.GenerateResource.cache
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\obj\Debug\proiect_farmacie.csproj.CoreCompileInputs.cache
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\bin\Debug\proiect_farmacie.exe.config
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\bin\Debug\proiect_farmacie.exe
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\bin\Debug\proiect_farmacie.pdb
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\obj\Debug\proiect_farmacie.exe
+D:\3122b\proiect-forms\proiect_farmacie\proiect_farmacie\obj\Debug\proiect_farmacie.pdb
